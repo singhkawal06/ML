@@ -59,7 +59,6 @@ X2 = scale(X2)
 
 # Find the optimal k
 k_grid = np.arange(2, 31)
-"""
 
 # k_grid = np.arange(2, 31, 2)
 loss1 = np.zeros(k_grid.size)
@@ -523,7 +522,7 @@ plt.legend(loc=0)
 plt.title('ICA Kurtosis')
 plt.savefig('../plots/var2-Kurtosis-ICA.png')
 
-"""
+
 # 3.Randomized Projections
 
 nComponents = [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,23,30]#,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,30,40
@@ -1085,7 +1084,7 @@ def expectedMaxPartStroke(dataTraining, dataTraining_Class, dataTesting, dataTes
 #expectedMaxPartDiabetes(X_train1, X_test1, y_train1, y_test1,'Diabetes')
 #expectedMaxPartDiabetes(X_train2, X_test2, y_train2, y_test2,'Stroke')
 
-"""
+
 clf_nn = MLPClassifier(hidden_layer_sizes=(5, 2), random_state=7, max_iter=1000)
 clf_nn.fit(X_train1, y_train1)
 y_pred = clf_nn.predict(X_test1)
@@ -1340,7 +1339,7 @@ plt.legend(loc="best")
 plt.grid()
 plt.savefig('NN-FA-learning-curve.png')
 
-"""
+
 #KMeans
 
 kmeans = KMeans(n_clusters=10, random_state=random_seed)
@@ -1378,7 +1377,7 @@ print('Inference time on test data: %f seconds' % test_time)
 best_accuracy = accuracy_score(y_test1, y_pred)
 print('Best accuracy of neural network is %.2f%%' % (best_accuracy * 100))
 
-"""
+
 _, train_scores, test_scores = learning_curve(clf_nn, X_train1, y_train1, train_sizes=np.linspace(0.1, 1.0, 5), cv=5)
 train_scores_mean = np.mean(train_scores, axis=1)
 test_scores_mean = np.mean(test_scores, axis=1)
@@ -1392,7 +1391,6 @@ plt.legend(loc="best")
 plt.grid()
 plt.savefig('NN-Kmeans-learning-curve.png')
 
-"""
 #EM
 
 gmm = GaussianMixture(n_components=7, random_state=random_seed)
@@ -1432,7 +1430,7 @@ print('Inference time on test data: %f seconds' % test_time)
 best_accuracy = accuracy_score(y_test1, y_pred)
 print('Best accuracy of neural network is %.2f%%' % (best_accuracy * 100))
 
-"""
+
 _, train_scores, test_scores = learning_curve(clf_nn, X_train1, y_train1, train_sizes=np.linspace(0.1, 1.0, 5), cv=5)
 train_scores_mean = np.mean(train_scores, axis=1)
 test_scores_mean = np.mean(test_scores, axis=1)
@@ -1445,4 +1443,4 @@ plt.ylabel("score")
 plt.legend(loc="best")
 plt.grid()
 plt.savefig('NN-EM-learning-curve.png')
-"""
+
