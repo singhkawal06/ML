@@ -2,49 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f02ec61-2396-4b09-9059-2a9eb44d7379" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_fitness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_fitness_Knapsack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_fitness_Knapsack_time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_fitness_onemax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_fitness_onemax_time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_fitness_time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_ga_fitness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_ga_fitness_Knapsack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_ga_fitness_onemax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_mimic_fitness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_mimic_fitness_Knapsack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_mimic_fitness_onemax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_rhc_fitness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_rhc_fitness_Knapsack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_rhc_fitness_onemax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_rhc_time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_rhc_time_Knapsack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_rhc_time_onemax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_sa_fitness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_sa_fitness_Knapsack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/4p_sa_fitness_onemax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_Accuracy_GA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_Accuracy_RHC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_Accuracy_SA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_Error_GA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_Error_RHC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_Error_SA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_F1Score_GA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_F1Score_RHC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_F1Score_SA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_F1Score_comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_TestF1Score_comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_TestingError_comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_Time_comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_TrainError_comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/NueralNetwork_TrainF1Score_comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/fitness_flipflop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/fitness_flipflop_time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/ga_fitness_flipflop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/mimic_fitness_flipflop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/rhc_fitness_flipflop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/rhc_time_flipflop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts_bkp/sa_fitness_flipflop.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,34 +103,40 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="21" />
+          <entry key="csv" value="25" />
+          <entry key="ipynb" value="4" />
           <entry key="p" value="5" />
-          <entry key="png" value="195" />
-          <entry key="py" value="53" />
+          <entry key="png" value="290" />
+          <entry key="py" value="77" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="21" />
-          <entry key="Image" value="195" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="53" />
+          <entry key="CSV" value="25" />
+          <entry key="IPNB" value="4" />
+          <entry key="Image" value="290" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2442" />
+          <entry key="py" value="3673" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2442" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="3671" />
         </counts>
       </usages-collector>
     </session>
@@ -181,92 +144,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randomized_optimization/knapsack.py">
+        <entry file="file://$PROJECT_DIR$/unsupervisedlearning/unsupervisedclustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Clustering without dimensionality reduction.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randomized_optimization/nn_optimization.py">
+        <entry file="file://$PROJECT_DIR$/unsupervisedlearning/clusters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="134" column="56" selection-start-line="134" selection-start-column="56" selection-end-line="134" selection-end-column="56" />
+            <state relative-caret-position="405">
+              <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randomized_optimization/SA.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="89" selection-start-line="12" selection-start-column="89" selection-end-line="12" selection-end-column="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randomized_optimization/GA.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randomized_optimization/RHC.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="52" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/randomized_optimization/flipflop.py">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/mixture/_gaussian_mixture.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+            <state relative-caret-position="476">
+              <caret line="630" column="8" selection-start-line="630" selection-start-column="8" selection-end-line="630" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/charts/sa_fitness_flipflop.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pandas/core/generic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="2486" selection-start-line="2486" selection-end-line="2486" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/charts/rhc_fitness_flipflop.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/supervised_learning/decision_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3570">
+              <caret line="238" column="39" selection-start-line="238" selection-start-column="39" selection-end-line="238" selection-end-column="39" />
+              <folding>
+                <element signature="e#1#92#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/charts/rhc_time_flipflop.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/unsupervisedlearning/UnsupervisedLearning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="83" column="3" lean-forward="true" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
+              <folding>
+                <element signature="e#23#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -280,19 +226,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&quot;&quot;&quot;</find>
-      <find>fill_missing_values</find>
-      <find>df_trades</find>
-      <find>Qlearner</find>
-      <find>author</find>
-      <find>author(</find>
-      <find>R</find>
-      <find>get_best_feature</find>
-      <find>dt</find>
-      <find>sym</find>
-      <find>prices</find>
-      <find>stra</find>
-      <find>addE</find>
       <find>get_indicators</find>
       <find>random</find>
       <find>list_</find>
@@ -310,6 +243,19 @@
       <find>hidden_layer_sizes</find>
       <find>node</find>
       <find>layer</find>
+      <find>clustersExperimentsPoker</find>
+      <find>Kmeans</find>
+      <find>icaData</find>
+      <find>gmm_labels1</find>
+      <find>split</find>
+      <find>kmeansPartDiabetes</find>
+      <find>n_sample</find>
+      <find>samples</find>
+      <find>metrics</find>
+      <find>loggin</find>
+      <find>X1</find>
+      <find>Kmeans-DR-Sil</find>
+      <find>center</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -318,9 +264,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/martingale/martingale.py" />
-        <option value="$PROJECT_DIR$/optimizer.py" />
-        <option value="$PROJECT_DIR$/grading/optimizer.py" />
         <option value="$PROJECT_DIR$/assess_portfolio/optimizer.py" />
         <option value="$PROJECT_DIR$/test_learner/BagLearner.py" />
         <option value="$PROJECT_DIR$/test_learner/LinRegLearner.py" />
@@ -364,10 +307,18 @@
         <option value="$PROJECT_DIR$/randomized_optimization/knapsack.py" />
         <option value="$PROJECT_DIR$/randomized_optimization/nn_optimization.py" />
         <option value="$PROJECT_DIR$/randomized_optimization/flipflop.py" />
+        <option value="$USER_HOME$/Downloads/Dimesionality reduction.ipynb" />
+        <option value="$USER_HOME$/Downloads/Clustering with dimensionality reduction.ipynb" />
+        <option value="$USER_HOME$/Downloads/Clustering without dimensionality reduction.ipynb" />
+        <option value="$PROJECT_DIR$/unsupervisedlearning/UnsupervisedLearning.py" />
+        <option value="$PROJECT_DIR$/unsupervisedlearning/unsupervisedclustering.py" />
+        <option value="$PROJECT_DIR$/unsupervisedlearning/clusters_em.py" />
+        <option value="$PROJECT_DIR$/unsupervisedlearning/clusters_gmm.py" />
+        <option value="$PROJECT_DIR$/unsupervisedlearning/clusters.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -393,7 +344,34 @@
             <path>
               <item name="supervisedlearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="supervisedlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="diabetes_in_women" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supervisedlearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supervisedlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="heart-stroke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supervisedlearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supervisedlearning" type="462c0819:PsiDirectoryNode" />
               <item name="knapsack_problem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supervisedlearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supervisedlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="randomized_optimization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supervisedlearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supervisedlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="supervised_learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supervisedlearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="supervisedlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="unsupervisedlearning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="supervisedlearning" type="b2602c69:ProjectViewProjectNode" />
@@ -435,7 +413,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.flipflop">
+  <component name="RunManager" selected="Python.clusters">
+    <configuration name="clusters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML4T_2019Fall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unsupervisedlearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervisedlearning/clusters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clusters_gmm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML4T_2019Fall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unsupervisedlearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervisedlearning/clusters_gmm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="flipflop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML4T_2019Fall" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -449,48 +469,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomized_optimization/flipflop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="four_peaks" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ML4T_2019Fall" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomized_optimization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomized_optimization/four_peaks.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="knapsack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ML4T_2019Fall" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomized_optimization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomized_optimization/knapsack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -520,7 +498,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="onemax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="unsupervisedclustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML4T_2019Fall" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -528,11 +506,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomized_optimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unsupervisedlearning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomized_optimization/onemax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervisedlearning/unsupervisedclustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -542,19 +520,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.four_peaks" />
-      <item itemvalue="Python.knapsack" />
-      <item itemvalue="Python.onemax" />
       <item itemvalue="Python.flipflop" />
       <item itemvalue="Python.nn_optimization" />
+      <item itemvalue="Python.unsupervisedclustering" />
+      <item itemvalue="Python.clusters" />
+      <item itemvalue="Python.clusters_gmm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.clusters" />
+        <item itemvalue="Python.clusters_gmm" />
+        <item itemvalue="Python.unsupervisedclustering" />
         <item itemvalue="Python.flipflop" />
         <item itemvalue="Python.nn_optimization" />
-        <item itemvalue="Python.knapsack" />
-        <item itemvalue="Python.onemax" />
-        <item itemvalue="Python.four_peaks" />
       </list>
     </recent_temporary>
   </component>
@@ -582,19 +560,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49842766" visible="true" weight="0.2989753" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49842766" visible="true" weight="0.14345992" />
       <window_info id="Structure" order="1" sideWeight="0.5015723" side_tool="true" weight="0.18625678" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996986" weight="0.24693878" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4996986" visible="true" weight="0.2387755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50030136" side_tool="true" weight="0.24733728" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32857144" />
       <window_info anchor="bottom" id="ExcelReader" order="11" visible="true" weight="0.32959184" />
@@ -603,20 +582,20 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49842766" visible="true" weight="0.18625678" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49842766" visible="true" weight="0.14345992" />
       <window_info id="Structure" order="1" sideWeight="0.5015723" side_tool="true" weight="0.18625678" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996986" visible="true" weight="0.24693878" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4996986" visible="true" weight="0.2387755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50030136" side_tool="true" weight="0.24733728" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289941" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32857144" />
       <window_info anchor="bottom" id="ExcelReader" order="11" visible="true" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -643,240 +622,243 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_Error_SA.png">
+    <entry file="file://$PROJECT_DIR$/plots/kmeans_loss_2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_Accuracy_SA.png">
+    <entry file="file://$PROJECT_DIR$/plots/gmm_bic_2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_Error_GA.png">
+    <entry file="file://$PROJECT_DIR$/plots/var2-Kurtosis-ICA.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_Accuracy_GA.png">
+    <entry file="file://$PROJECT_DIR$/plots/var1-Kurtosis-ICA.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_TestF1Score_comparison.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_TestingError_comparison.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_TrainF1Score_comparison.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_Time_comparison.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_TrainError_comparison.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts_bkp/4p_fitness_Knapsack_time.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/four_peaks_problem/RCH/rhc__RCH__curves_df.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/four_peaks_problem/RCH_final/rhc__RCH_final__curves_df.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_fitness.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts_bkp/4p_ga_fitness.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts_bkp/4p_rhc_fitness.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts_bkp/4p_fitness.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomized_optimization/onemax.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/decomposition/_fastica.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="263" selection-start-line="263" selection-end-line="263" />
+        <state relative-caret-position="742">
+          <caret line="622" column="36" selection-start-line="622" selection-end-line="623" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_fitness_onemax.png">
+    <entry file="file://$PROJECT_DIR$/plots/var1-Error-FA.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/mlrose_hiive/opt_probs/discrete_opt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+    <entry file="file://$USER_HOME$/Downloads/Clustering with dimensionality reduction.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/mlrose_hiive/fitness/four_peaks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="56" column="28" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="28" />
+    <entry file="file://$USER_HOME$/Downloads/Dimesionality reduction.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_mimic_fitness.png">
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/3-Stroke-Kmeans-DR-CO.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_fitness_time.png">
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/3-Stroke-Kmeans-DR-Homo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts_bkp/4p_rhc_fitness_Knapsack.png">
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/3-Stroke-Kmeans-DR-Sil.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/knapsack_problem/RCH/rhc__RCH__curves_df.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomized_optimization/four_peaks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts_bkp/4p_fitness_Knapsack.png">
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/3-Diabetes-Kmeans-DR-Sil.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts_bkp/4p_sa_fitness_Knapsack.png">
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/3-Diabetes-Kmeans-DR-Homo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_sa_fitness_Knapsack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_mimic_fitness_Knapsack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_ga_fitness_Knapsack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_fitness_Knapsack_time.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/4p_fitness_Knapsack.png">
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/3-Diabetes-Kmeans-DR-CO.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/neural_network/_multilayer_perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="1542" column="49" selection-start-line="1542" selection-start-column="31" selection-end-line="1542" selection-end-column="49" />
+        <state relative-caret-position="10020">
+          <caret line="695" selection-start-line="695" selection-end-line="695" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_F1Score_GA.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_F1Score_SA.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_F1Score_RHC.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/NueralNetwork_Accuracy_RHC.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/supervised_learning/decision_tree.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/decomposition/_pca.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1591">
-          <caret line="187" column="53" selection-start-line="187" selection-start-column="53" selection-end-line="187" selection-end-column="53" />
-          <folding>
-            <element signature="e#1#92#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="5325">
+          <caret line="369" column="42" selection-start-line="369" selection-start-column="35" selection-end-line="369" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/mlrose_hiive/neural/neural_network.py">
+    <entry file="file://$PROJECT_DIR$/supervised_learning/data_load.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomized_optimization/RHC.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomized_optimization/SA.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="89" selection-start-line="12" selection-start-column="89" selection-end-line="12" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomized_optimization/GA.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/charts/fitness_flipflop.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomized_optimization/nn_optimization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="134" column="56" selection-start-line="134" selection-start-column="56" selection-end-line="134" selection-end-column="56" />
+        <state relative-caret-position="450">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/rhc_time_flipflop.png">
+    <entry file="file://$USER_HOME$/Downloads/Dimentionality_reduction_on_nueral_network.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/kmeans_loss_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/sa_fitness_flipflop.png">
+    <entry file="file://$PROJECT_DIR$/plots/kmeans_viz_2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/ga_fitness_flipflop.png">
+    <entry file="file://$PROJECT_DIR$/plots/kmeans_viz_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/rhc_fitness_flipflop.png">
+    <entry file="file://$PROJECT_DIR$/plots/kmeans_hist_2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomized_optimization/knapsack.py">
+    <entry file="file://$PROJECT_DIR$/plots/kmeans_sc_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/kmeans_sc_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_bic_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_probs_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_hist_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_hist_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_probs_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_viz_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_viz_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_wts_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/kmeans_hist_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/gmm_wts_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/pca_var_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/var1-Error-RP.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/var2-Error-RP.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/pca_var_cum_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/pca_var_cum_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/pca_var_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/heart-stroke/data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/diabetes_in_women/data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pandas/core/generic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        <state relative-caret-position="233">
+          <caret line="2486" selection-start-line="2486" selection-end-line="2486" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supervised_learning/decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="238" column="39" selection-start-line="238" selection-start-column="39" selection-end-line="238" selection-end-column="39" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1#92#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomized_optimization/flipflop.py">
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/clusters_em.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-end-line="148" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/UnsupervisedLearning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="83" column="3" lean-forward="true" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
+          <folding>
+            <element signature="e#23#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/unsupervisedclustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/clusters_gmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/mixture/_gaussian_mixture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="630" column="8" selection-start-line="630" selection-start-column="8" selection-end-line="630" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Clustering without dimensionality reduction.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsupervisedlearning/clusters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
